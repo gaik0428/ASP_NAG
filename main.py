@@ -37,6 +37,6 @@ print(total_summed_df.head(3))
 Top_countries_bc = total_summed_df.plot(kind="bar", title = 'International Monthly Visitors for 2008 to 2017', stacked = False ,figsize=(10,10),fontsize=12)
 plt.show()
 
-#....
+# ....
 
 # update from github
