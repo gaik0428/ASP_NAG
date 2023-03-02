@@ -38,3 +38,5 @@ Top_countries_bc = total_summed_df.plot(kind="bar", title = 'International Month
 plt.show()
 
 ....
+
+# update from pycharm
